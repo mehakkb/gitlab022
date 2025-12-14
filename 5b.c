@@ -1,2 +1,1 @@
-Hello Everyone
-How are you all?
+Hello Everyone 
